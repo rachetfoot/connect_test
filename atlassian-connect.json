@@ -9,9 +9,9 @@
     "url": "https://www.example.com"
   },
   "links": {
-    "self": "https://www.bolo-software.com/test4/atlassian-connect.json"
+    "self": "https://raw.githubusercontent.com/rachetfoot/connect_test/main/atlassian-connect.json"
   },
-  "baseUrl": "https://www.bolo-software.com/test4/",
+  "baseUrl": "https://raw.githubusercontent.com/rachetfoot/connect_test/main/",
   "authentication": {
     "type": "none"
   },
