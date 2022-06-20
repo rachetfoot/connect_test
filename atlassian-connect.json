@@ -19,7 +19,6 @@
   "scopes": [
     "read",
     "write",
-    "act_as_user",
-    "admin"
+    "act_as_user"
   ]
 }
