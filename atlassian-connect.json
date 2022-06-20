@@ -20,6 +20,6 @@
     "read",
     "write",
     "act_as_user",
-    "ACCESS_EMAIL_ADDRESSES"
+    "admin"
   ]
 }
