@@ -1,0 +1,25 @@
+{
+  "modules": {},
+  "key": "jason-test-app4",
+  "name": "My Connect App (updated)",
+  "apiVersion": 1,
+  "description": "A connect app that does something (minor change)",
+  "vendor": {
+    "name": "My Company (updated)",
+    "url": "https://www.example.com"
+  },
+  "links": {
+    "self": "https://www.bolo-software.com/test4/atlassian-connect.json"
+  },
+  "baseUrl": "https://www.bolo-software.com/test4/",
+  "authentication": {
+    "type": "none"
+  },
+  "enableLicensing": true,
+  "scopes": [
+    "read",
+    "write",
+    "act_as_user",
+    "ACCESS_EMAIL_ADDRESSES"
+  ]
+}
